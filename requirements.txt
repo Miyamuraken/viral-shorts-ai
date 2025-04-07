@@ -1,8 +1,7 @@
-streamlit==1.32.0
-moviepy==1.0.3
-opencv-python==4.9.0.80
-ffmpeg-python==0.2.0
-openai==1.14.3
-numpy==1.24.3
+streamlit
+moviepy
+opencv-python
+openai
+numpy
 git+https://github.com/openai/whisper.git
 torch
