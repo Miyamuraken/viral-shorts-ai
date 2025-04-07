@@ -1,0 +1,6 @@
+streamlit
+moviepy
+opencv-python
+ffmpeg-python
+openai
+whisper
